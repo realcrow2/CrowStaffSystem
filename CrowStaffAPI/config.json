@@ -1,0 +1,5 @@
+{
+  "discordEndpoint": "http://localhost:3000/clock",
+  "webhookUrl": "",
+  "requiredPermission": "staffclock.use"
+}
