@@ -1,0 +1,27 @@
+ {
+  "promotion": {
+    "allowedRoles": ["1425252493969063967"],
+    "requiredMinutes": 240
+  },
+  "rankRoles": {
+    "1425252569122476113": "Trial Moderator",
+    "1425252561690169499": "Moderator", 
+    "1425252561069543534": "Senior Moderator",
+    "1425252560196862033": "Head Moderator",
+    "1425252558812872714": "Administrator", 
+    "1425252556635897976": "Senior Administrator",
+    "1425252520887849162": "Junior Head Admin",
+    "1425252512289783968": "Head Admin",
+    "1425252504161091777": "Trial Manager",
+    "1425252503464710224": "Assistant Community Manager", 
+    "1425252502550347857": "Community Manager",
+    "1425328162719404053": "Assistant Community Director",
+    "1425252499488641128": "Community Director",
+    "1425252495227359283": "Co-Owner",
+    "1425252493969063967": "Owner"
+  },
+  "staffnextweek": {
+    "allowedRoles": ["1425252493969063967"]
+  },
+  "webhookUrl": "https://discord.com/api/webhooks/1427033057826836641/I0jHIeLuhX5NVJXqZQRp7m-9IWCT_s5k9pvbd8L9zwZCyeWuB2ELQ_a4sMpAvQJF6yuT"
+}
